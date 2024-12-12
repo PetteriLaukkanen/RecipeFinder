@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Welcome">Tervetuloa resepti sovellukseen!</string>
+    <string name="find_something_new">Löydä jotain uutta</string>
+    <string name="ingredients">Ainesosat:</string>
+    <string name="instructions">Ohjeet:</string>
+    <string name="category">Kategoria:</string>
+    <string name="share_ingredients">Jaa</string>
+    <string name="remove_favourite">Poista_Suosikki</string>
+    <string name="favorite_icon">Suosikki_ikoni</string>
+    <string name="hamburger_icon">Menu ikoni</string>
+    <string name="added_to_favourites">Lisätty suosikkeihin</string>
+    <string name="add_to_favourites">Lisää suosikkeihin</string>
+    <string name="no_instructions_available">Ei ohjeita saatavilla</string>
+    <string name="favourites">Suosikit</string>
+    <string name="refresh_favourites">Paivita Suosikit</string>
+</resources>

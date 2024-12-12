@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">RecipeFinder</string>
+    <string name="Welcome">Welcome to the recipe finder app!</string>
+    <string name="find_something_new">Find something new</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="category">Category: %1$s</string>
+    <string name="share_ingredients">Share</string>
+    <string name="remove_favourite">remove_favourite</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="hamburger_icon">Hamburger Icon</string>
+    <string name="added_to_favourites">Added to Favourites</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="no_instructions_available">No instructions available.</string>
+    <string name="favourites">Favourites</string>
+    <string name="refresh_favourites">Refresh Favourites</string>
+</resources>
